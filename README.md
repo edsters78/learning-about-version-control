@@ -1,2 +1,2 @@
-# learning-about-version-control
-for DSCI 310
+# Learning About Version Control
+Author: Edwin Yeung
